@@ -1,0 +1,16 @@
+input {
+    width: 100px;
+}
+
+button {
+    width: 20px;
+    padding: 0;
+    margin: 2px;
+}
+.libre {
+    width: auto;
+}
+
+span {
+    padding: 0 3px;
+}
